@@ -1,0 +1,376 @@
+{
+  "topic_name": "农业经济学、制度经济学与风险冲击下的农民稳定增收",
+  "modules": [
+    {
+      "name": "农业经济学与农户收入增长",
+      "description": "关注农业生产率、技术采用、市场参与和农业转型对农户收入增长的影响。",
+      "queries": [
+        "agricultural productivity farm household income",
+        "agricultural technology adoption smallholder income",
+        "agricultural commercialization rural household income"
+      ],
+      "priority_terms": [
+        "agricultural economics",
+        "agricultural productivity",
+        "farm income",
+        "farmer income",
+        "farm household",
+        "smallholder",
+        "agricultural technology",
+        "technology adoption",
+        "commercialization",
+        "market participation"
+      ],
+      "max_items": 6
+    },
+    {
+      "name": "制度经济学与农村制度安排",
+      "description": "关注产权、土地制度、契约、交易成本、合作社和集体行动对农户投资、经营与收入的影响。",
+      "queries": [
+        "land tenure property rights farm household income",
+        "transaction costs contract farming smallholder income",
+        "farmer cooperatives collective action rural income"
+      ],
+      "priority_terms": [
+        "institutional economics",
+        "institutions",
+        "property rights",
+        "land tenure",
+        "land rights",
+        "tenure security",
+        "transaction costs",
+        "contract farming",
+        "farmer cooperatives",
+        "collective action",
+        "land reform",
+        "land rental"
+      ],
+      "max_items": 6
+    },
+    {
+      "name": "风险冲击与农民收入波动",
+      "description": "关注干旱、洪涝、极端天气、价格波动和健康冲击对农户收入、消费与生计的影响。",
+      "queries": [
+        "climate shocks drought flood farm household income",
+        "agricultural price shocks farm income volatility",
+        "health shocks rural household income"
+      ],
+      "priority_terms": [
+        "risk shocks",
+        "climate shocks",
+        "weather shocks",
+        "drought",
+        "flood",
+        "extreme weather",
+        "price shocks",
+        "price volatility",
+        "income volatility",
+        "income stability",
+        "health shocks",
+        "rural household",
+        "farm income",
+        "livelihood"
+      ],
+      "max_items": 6
+    },
+    {
+      "name": "风险应对、韧性与稳定增收",
+      "description": "关注农业保险、信贷约束、社会保护、收入多元化和适应策略能否稳定并提升农民收入。",
+      "queries": [
+        "crop insurance income stabilization smallholder farmers",
+        "rural credit social protection household income resilience",
+        "income diversification climate adaptation farm households"
+      ],
+      "priority_terms": [
+        "crop insurance",
+        "agricultural insurance",
+        "index insurance",
+        "risk management",
+        "risk sharing",
+        "consumption smoothing",
+        "income smoothing",
+        "income stabilization",
+        "income diversification",
+        "livelihood resilience",
+        "climate adaptation",
+        "rural credit",
+        "credit constraints",
+        "social protection",
+        "off-farm income"
+      ],
+      "max_items": 6
+    }
+  ],
+  "openalex_extra_filter": "concepts.id:C162324750",
+  "quality_sources": [
+    {
+      "name": "American Economic Review",
+      "aliases": [
+        "AER"
+      ],
+      "weight": 12
+    },
+    {
+      "name": "Quarterly Journal of Economics",
+      "aliases": [
+        "QJE"
+      ],
+      "weight": 12
+    },
+    {
+      "name": "Journal of Political Economy",
+      "aliases": [
+        "JPE"
+      ],
+      "weight": 12
+    },
+    {
+      "name": "Econometrica",
+      "aliases": [],
+      "weight": 12
+    },
+    {
+      "name": "Review of Economic Studies",
+      "aliases": [
+        "REStud",
+        "The Review of Economic Studies"
+      ],
+      "weight": 12
+    },
+    {
+      "name": "NBER Working Paper",
+      "aliases": [
+        "National Bureau of Economic Research",
+        "NBER"
+      ],
+      "weight": 10
+    },
+    {
+      "name": "IZA Discussion Paper",
+      "aliases": [
+        "IZA Institute of Labor Economics",
+        "IZA"
+      ],
+      "weight": 9
+    },
+    {
+      "name": "World Bank Policy Research Working Paper",
+      "aliases": [
+        "Policy Research Working Paper",
+        "World Bank"
+      ],
+      "weight": 9
+    },
+    {
+      "name": "CESifo Working Paper",
+      "aliases": [
+        "CESifo"
+      ],
+      "weight": 8
+    },
+    {
+      "name": "CEPR Discussion Paper",
+      "aliases": [
+        "CEPR"
+      ],
+      "weight": 8
+    },
+    {
+      "name": "Journal of Development Economics",
+      "aliases": [],
+      "weight": 8
+    },
+    {
+      "name": "Journal of Public Economics",
+      "aliases": [
+        "JPubE"
+      ],
+      "weight": 8
+    },
+    {
+      "name": "AEJ: Applied Economics",
+      "aliases": [
+        "American Economic Journal: Applied Economics"
+      ],
+      "weight": 8
+    },
+    {
+      "name": "AEJ: Economic Policy",
+      "aliases": [
+        "American Economic Journal: Economic Policy"
+      ],
+      "weight": 8
+    },
+    {
+      "name": "Labour Economics",
+      "aliases": [
+        "Labor Economics"
+      ],
+      "weight": 8
+    },
+    {
+      "name": "Journal of Population Economics",
+      "aliases": [],
+      "weight": 8
+    },
+    {
+      "name": "World Development",
+      "aliases": [],
+      "weight": 8
+    },
+    {
+      "name": "China Economic Review",
+      "aliases": [],
+      "weight": 7
+    },
+    {
+      "name": "Economic Development and Cultural Change",
+      "aliases": [],
+      "weight": 7
+    },
+    {
+      "name": "Journal of Human Resources",
+      "aliases": [],
+      "weight": 7
+    },
+    {
+      "name": "Journal of Labor Economics",
+      "aliases": [
+        "Journal of Labour Economics"
+      ],
+      "weight": 7
+    },
+    {
+      "name": "Review of Economics and Statistics",
+      "aliases": [
+        "The Review of Economics and Statistics",
+        "REStat"
+      ],
+      "weight": 7
+    }
+  ],
+  "independent_sources": [
+    {
+      "type": "nber_rss",
+      "name": "NBER Working Paper",
+      "url": "https://www.nber.org/rss/new.xml",
+      "limit": 25
+    },
+    {
+      "type": "repec_series",
+      "name": "IZA Discussion Paper",
+      "url": "https://ideas.repec.org/s/iza/izadps.html",
+      "limit": 25,
+      "fetch_details": true,
+      "max_detail_fetch": 12
+    },
+    {
+      "type": "repec_series",
+      "name": "World Bank Policy Research Working Paper",
+      "url": "https://ideas.repec.org/s/wbk/wbrwps.html",
+      "limit": 25,
+      "fetch_details": true,
+      "max_detail_fetch": 12
+    }
+  ],
+  "priority_terms": [
+    "agricultural economics",
+    "agricultural productivity",
+    "farm income",
+    "farmer income",
+    "farm household",
+    "smallholder",
+    "agricultural technology",
+    "technology adoption",
+    "commercialization",
+    "market participation",
+    "institutional economics",
+    "institutions",
+    "property rights",
+    "land tenure",
+    "land rights",
+    "tenure security",
+    "transaction costs",
+    "contract farming",
+    "farmer cooperatives",
+    "collective action",
+    "land reform",
+    "land rental",
+    "risk shocks",
+    "climate shocks",
+    "weather shocks",
+    "drought",
+    "flood",
+    "extreme weather",
+    "price shocks",
+    "price volatility",
+    "income volatility",
+    "income stability",
+    "health shocks",
+    "rural household",
+    "livelihood",
+    "crop insurance",
+    "agricultural insurance",
+    "index insurance",
+    "risk management",
+    "risk sharing",
+    "consumption smoothing",
+    "income smoothing",
+    "income stabilization",
+    "income diversification",
+    "livelihood resilience",
+    "climate adaptation",
+    "rural credit",
+    "credit constraints",
+    "social protection",
+    "off-farm income"
+  ],
+  "penalty_terms": [
+    "pedagogical",
+    "classroom",
+    "curriculum",
+    "student satisfaction",
+    "spiritual",
+    "artificial intelligence has become",
+    "sustainable economic development opportunities and challenges",
+    "clinical",
+    "nutrition",
+    "preconception",
+    "surgery",
+    "oncology"
+  ],
+  "exclude_terms": [
+    "clinical trial",
+    "medical education",
+    "nursing education",
+    "veterinary",
+    "molecular",
+    "cellular",
+    "genome",
+    "protein",
+    "surgery",
+    "cancer",
+    "neoplasm"
+  ],
+  "from_days": 30,
+  "per_query_limit": 15,
+  "openalex_timeout": 12,
+  "max_items_in_report": 6,
+  "minimum_relevance_score": 11,
+  "openalex_mailto": "",
+  "unpaywall_email": "",
+  "llm": {
+    "enabled": true,
+    "required": true,
+    "model": "deepseek-flash",
+    "thinking": "enabled",
+    "reasoning_effort": "high",
+    "timeout": 300,
+    "max_reviews": 0,
+    "temperature": 0.2
+  },
+  "email": {
+    "subject": "农业/制度经济学与农民稳定增收每周文献动态 - {date}"
+  },
+  "output_language": "zh"
+}
